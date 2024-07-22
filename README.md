@@ -16,7 +16,5 @@ Litte bit of lazy.
 - ⚡ Interesting: Play games like Persona/Genshin Impact/Honkai StarRail/Minecraft etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
 
