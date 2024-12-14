@@ -11,9 +11,9 @@ Litte bit of lazy.
 - 🌱 I’m currently learning GOLANG/CPP
 - 🤔 I’m looking for help with game making.
 - 💬 Ask me about Python using.
-- 📫 How to reach me: mail:Azhegod@gmail.com
+- 📫 How to reach me: mail:Azhegod@gmail.com or me@azhegod.site(faster)
 - 😄 Pronouns: he/him
-- ⚡ Interesting: Play games like Persona/Genshin Impact/Honkai StarRail/Minecraft etc.
+- ⚡ Interesting: Play games like Persona/sid meier's civilization vi/Minecraft etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
