@@ -15,6 +15,6 @@ Litte bit of lazy.
 - 😄 Pronouns: he/him
 - ⚡ Interesting: Play games like Persona/sid meier's civilization vi/Minecraft etc.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
 
