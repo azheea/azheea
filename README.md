@@ -27,8 +27,7 @@ Passionate about turning ideas into reality. I'm always working on things I love
 
 ### 📊 GitHub Stats
 <p align="center">
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://ghstats.dev/api/card?username=azheea&border_radius=22.5" alt="GitHub Stats Card" />
 </p>
 
 ---
