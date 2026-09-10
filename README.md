@@ -27,15 +27,15 @@ Passionate about turning ideas into reality. I'm always working on things I love
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azheea&show_icons=true&theme=radical&hide_border=true" alt="Azhe's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azheea&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=azheea)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 - 📧 Email: [Azhegod@gmail.com](mailto:Azhegod@gmail.com)
-- ⚡ Faster Response: [me@3116163200@qq.com](mailto:3116163200@qq.com)
+- ⚡ Faster Response: [3116163200@qq.com](mailto:3116163200@qq.com)
 - 😄 Pronouns: He/Him
 
 <p align="center">
